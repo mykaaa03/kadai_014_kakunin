@@ -1,0 +1,38 @@
+html {
+    font-size: 20px;
+}
+
+body {
+    font-family: "Arial", "Meiryo", sans-serif; 
+    text-align: center;
+}
+
+#category {
+    font-family: "Josefin Sans", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 400;
+    font-style: normal;
+    font-size: 2em;
+    line-height: 1.2;
+    text-shadow: 1px 1px 3px gray;
+    border-bottom: solid 3px rgb(115, 115, 114);
+}
+
+#decoration01 {
+    color: skyblue;
+}
+#decoration02 {
+    color: rgb(255, 192, 203);
+}
+
+.h2_color01 {
+    color: rgb(255, 192, 203);
+}
+
+.h2_color02 {
+    color: skyblue;
+}
+
+
+
+
